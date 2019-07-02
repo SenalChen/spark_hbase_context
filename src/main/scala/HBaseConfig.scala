@@ -6,5 +6,6 @@ object HBaseConfig {
 
   def main(args: Array[String]): Unit = {
 
+
   }
 }
