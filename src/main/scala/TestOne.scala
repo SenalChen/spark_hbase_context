@@ -6,5 +6,6 @@ object TestOne {
 
   def main(args: Array[String]): Unit = {
 
+    print(1231)
   }
 }
